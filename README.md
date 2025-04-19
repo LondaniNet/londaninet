@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey, I’m Londani — Future Cloud Architect & Self-Taught Tech Beast
 
-<!--
-**LondaniNet/londaninet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m not just learning tech — I’m **building a legacy**. I’m on a mission to go from **zero to CEO**, mastering Cloud Computing, Linux, Python, and Cybersecurity along the way.
 
-Here are some ideas to get you started:
+- **Location**: South Africa  
+- **Background**: Sales Pro turned Tech Builder  
+- **Focus**: AWS | Linux | Python | Cyber  
+- **Driven By**: Pressure. Purpose. Power.  
+- **Ultimate Goal**: Become a world-class Cloud Architect & tech empire founder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚔️ Current Mission:
+I’m currently leveling up my skills through intense self-study and real projects. Every commit is part of my transformation.
+
+---
+
+### 📂 What You’ll Find Here:
+- Learning Journals
+- Cloud Labs & Projects
+- Scripts & Tools (Python, Bash, etc.)
+- Notes & Growth Logs
+
+---
+
+### Connect with me:
+- GitHub: [https://github.com/londaninet](https://github.com/londaninet)
+- LinkedIn: Coming soon
+- Motto: **“Discipline beats talent when talent chills.”**
+
+---
+
+> **This isn’t just a profile — it’s the war room of a future CEO.**
