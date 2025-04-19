@@ -24,9 +24,9 @@ I’m currently leveling up my skills through intense self-study and real projec
 ---
 
 ### Connect with me:
-- GitHub: [https://github.com/londaninet](https://github.com/londaninet)
-- LinkedIn: Coming soon
-- Motto: **“Discipline beats talent when talent chills.”**
+- **GitHub**: [https://github.com/londaninet](https://github.com/londaninet)  
+- **LinkedIn**: [https://www.linkedin.com/in/londani-majoka-88bb17350?trk=contact-info](https://www.linkedin.com/in/londani-majoka-88bb17350?trk=contact-info)  
+- **Motto**: **“Discipline beats talent when talent chills.”**
 
 ---
 
